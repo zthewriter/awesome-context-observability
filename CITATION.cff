@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you cite this repository, cite it as below."
+title: "Awesome Context Observability"
+abstract: "A curated list of tools that show how AI consumes, uses, and cites documentation and content when it generates responses."
+authors:
+  - name: "Zair Rogelio"
+version: "1.0.0"
+date-released: "2026-10-18"
+repository-code: "https://github.com/zthewriter/awesome-context-observability"
+url: "https://github.com/zthewriter/awesome-context-observability"
+license: CC0-1.0
+keywords:
+  - "awesome list"
+  - "context observability"
+  - "documentation analytics"
+  - "AI search visibility"
+  - "Model Context Protocol"

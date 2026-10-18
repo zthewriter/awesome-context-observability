@@ -1,0 +1,17 @@
+name: Broken or outdated entry
+description: An entry's link is broken, or the tool changed or was discontinued.
+labels: ["entry-update"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Tool
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: A broken link, a renamed tool, a discontinued product, or a description that is no longer accurate.
+    validations:
+      required: true
